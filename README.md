@@ -1,4 +1,4 @@
-# GraphQL Spring Boot Example
+# Spring Boot GraphQL Project 
 
 This project is a demonstration of how to integrate GraphQL with a Spring Boot application. It provides endpoints to query and mutate data related to books using GraphQL.
 
@@ -133,7 +133,10 @@ mutation {
 
 ## Deployment
 
-This application is deployed on cloud. Please use healthCheck url before hitting the graphQL query.
+This application is deployed on cloud. Please use healthCheck URL before hitting the graphQL query.
+
+#### Health Check URL:
+[https://springboot-graphql.onrender.com](#)
 
 ## Public URL
 
